@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/AsBuiltMeNow" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
